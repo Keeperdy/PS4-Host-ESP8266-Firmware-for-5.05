@@ -1,4 +1,4 @@
-PS4-Host-ESP8266-Firmware OFW 5.05/Прошивка для ESP8266 PS4 Хост (ПО 5.05) (описание на русском смотрите внизу)
+**PS4-Host-ESP8266-Firmware OFW 5.05/Прошивка для ESP8266 PS4 Хост (ПО 5.05) (описание на русском смотрите внизу)**
 ***
 Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 5.05 OFW ONLY. It is simple and light firmware without any tools like autopayload, firmware upgrade, ftp server for uploading files, etc. This firmware is mostly based on Al-Azif repo, but some payloads were modified for better stability/workability.
 
@@ -21,10 +21,10 @@ Upload firmware in .bin format via NodeMCU-PyFlasher 3.0
 CREDITS TO:
 
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, The Open Orbis team, etc
+---
 
 
-
-Прошивка для ESP8266
+**Прошивка для ESP8266**
 
 Данный репозиторий содержит прошивку для модуля ESP8266 с поднятием вэб-сервера для хоста эксполитов/пэйлоадов Playstation 4 для ПО 4.55
 
