@@ -5,7 +5,7 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 5.05 OFW
 The payloads list includes:
 
     MIRA+HEN
-    Xvortex's HEN (v 1.5)
+    Xvortex's HEN (v 1.6)
     Xvortex's FTP
     Xvortex's Dumper v 1.8
     
@@ -29,8 +29,18 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 
 Данный репозиторий содержит прошивку для модуля ESP8266 с поднятием вэб-сервера для хоста эксполитов/пэйлоадов Playstation 4 для ПО 5.05
 
-ВНИМАНИЕ!
+
+Состав сборки (по мере выхода новых версий пэйлоады обновляются):
+
+    MIRA+HEN
+    Xvortex's HEN (v 1.6)
+    Xvortex's FTP
+    Xvortex's Dumper v 1.8
     
+Настройки PS4 Wi-Fi (метод - "Простой"):
+
+    Network: PS4
+    Password: qwertyuiop  
 
 С данными настройками так же успешно проходится тест на подключение к интернету!
 
