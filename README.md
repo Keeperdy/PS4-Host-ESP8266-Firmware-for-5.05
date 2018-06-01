@@ -5,11 +5,11 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 5.05 OFW
 The payloads list includes:
 
     MIRA+HEN
-    Xvortex's HEN (v 1.6)
-    Xvortex's FTP
-    Xvortex's Dumper v 1.8
-    Stooged's BackUp v 1
-    Stooged's App2Usb v 1
+    Xvortex's HEN v1.6
+    Xvortex's FTP v1.3
+    Xvortex's Dumper v1.8
+    Stooged's BackUp v2
+    Stooged's App2Usb v1
     
 PS4 Wi-Fi Settings (EASY):
 
@@ -35,11 +35,11 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 Состав сборки (по мере выхода новых версий пэйлоады обновляются):
 
     MIRA+HEN
-    Xvortex's HEN v 1.6
-    Xvortex's FTP
-    Xvortex's Dumper v 1.8
-    Stooged's BackUp v 1
-    Stooged's App2Usb v 1
+    Xvortex's HEN v1.6
+    Xvortex's FTP v1.3
+    Xvortex's Dumper v1.8
+    Stooged's BackUp v2
+    Stooged's App2Usb v1
     
 Настройки PS4 Wi-Fi (метод - "Простой"):
 
