@@ -1,16 +1,22 @@
 # NB!!! STOLEN CODE FROM C0d3m4st4
-Hi, guys! Concerning situation with c0d3m4st4 code used in my ESP firmwares - he blames me his code being stolen and used by me - I want to make it clear that it's just **a stupid mistake,** specifically, my mistake that I did not clear ESP flash memory before uploading any sketch in it. However, I've just found this function, too late. So, if you use somebody's firmware and then upload your sketch via Arduino (Not NodeMCU-flasher) over it, it will replace only sketch code and allocate SPIFF files in flash memory according to their size. The rest is unchanged, so if you firmware is smaller than all 4Mb, you can find the traces of previously loaded firmwares to ESP code! 
+Hi, guys! Concerning situation with c0d3m4st4 code used in my ESP firmwares - he blames me his code being stolen and used by me - I want to make it clear that it's just **a stupid mistake**, specifically, my mistake that I did not clear ESP flash memory before uploading any sketch in it. However, I've just found this function, too late. So, if you use somebody's firmware and then upload your sketch via Arduino (Not NodeMCU-flasher) over it, it will replace only sketch code and allocate SPIFF files in flash memory according to their size. The rest is unchanged, so if you firmware is smaller than all 4Mb, you can find the traces of previously loaded firmwares to ESP code!
 
-My firmware is written from the scracth, using Arduino in-built examples and modified by me!!! **I NEVER TOOK OR STOLE ANYONE'S WORK TO PRESENT IT LIKE MY OWN!!!**
+The same happened with me:
+- My first ESP firmware releases were beta, I tried to improve arduino code - debugging
+- Some day I flashed my ESP with c0d3m4st4 firmware (I had some problem with dumper payload)
+- After sometime I uploaded my new sketch via Arduino IDE without erasing c0d3m4st4 firmware from flash. I was pretty sure that Arduino IDE makes it by default, but not - I've already found this function, but too late.
+- So that how it happened - some part of his code left in my firmware because I did not use all 4Mb flash memory size. His code is inactive - it's clear - because there is no links to it in basic sketch! It's just my fualt not to clear everything properly before making something own!
+
+My firmware is written from the scratch, using Arduino in-built examples and modified by me!!! **I NEVER TOOK OR STOLE ANYONE'S WORK TO PRESENT IT LIKE MY OWN!!!**
 
 I made a video of a full process where you can see how it works! Video: https://drive.google.com/open?id=1_Drp0A0sBM5yU9vVWsz9NjdxsnubvqVm … The file is over 700 Mb with step-by-step comments.
 
-1. Flashing ESP with blank 4mb bin file 
-2. Uploading my sketch and dump bin file 
-3. Checking it in WinHex (it crashes sometimes) for c0d3m4st4's code 
-4. Flashing ESP with his last FW 
-5. Upload again the SAME sketch without erasing the content and dumping a bin file 
-6. Finding with WinHex the pieces of his code!!!
+    Flashing ESP with blank 4mb bin file
+    Uploading my sketch and dump bin file
+    Checking it in WinHex (it crashes sometimes) for c0d3m4st4's code - no traces
+    Flashing ESP with his last FW
+    Upload again the SAME my sketch without full erasing of the c0d3m4st4's content and dumping a bin file again
+    Finding with WinHex the pieces of his code!!!
 
 Now I will clear all my firmwares from c0d3m4st4's code traces (and probably other devs too) and update them on Github!!! Sorry for inconveniences!!!
 
