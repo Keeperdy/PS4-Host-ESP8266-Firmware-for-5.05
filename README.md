@@ -1,6 +1,6 @@
-# THIS FIRMWARE IS NOT FOR COMMERCIAL USE!!! DO NOT BUY ANY ESP DEIVCES  WITH THIS FW, IT'S 3-4 TIMES MORE EXPENSIVE THAN THE DEVICE ITSELF! JUST BUY ESP8266 AND FLASH IT BY YOURSELF!!! 
+# THIS FIRMWARE IS NOT FOR COMMERCIAL USE!!! DO NOT BUY ANY ESP DEVICE WITH THIS FW - IT'S 3-4 TIMES MORE EXPENSIVE THAN THE DEVICE ITSELF! JUST BUY ESP8266 AND FLASH IT BY YOURSELF!!! 
 
-# ДАННАЯ ПРОШИВКА НЕ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ!!! НЕ ПОКУПАЙТЕ МОДУЛИ С ДАННОЙ ПРОШИВКОЙ - ОНИ СТОЯТ В 3-4 РАЗА ДОРОЖЕ, ЧЕМ САМ МОДУЛЬ. ПРОСТО КУПИТЕ САМ МОДУЛЬ И ПРОШЕЙТЕ ЕГО САМОСТОЯТЕЛЬНО!!!
+# ДАННАЯ ПРОШИВКА НЕ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ!!! НЕ ПОКУПАЙТЕ ESP МОДУЛЬ С ДАННОЙ ПРОШИВКОЙ - ОН СТОИТ В 3-4 РАЗА ДОРОЖЕ, ЧЕМ САМ МОДУЛЬ! ПРОСТО КУПИТЕ САМ МОДУЛЬ И ПРОШЕЙТЕ ЕГО САМОСТОЯТЕЛЬНО!!! 
 
 **PS4-Host-ESP8266-Firmware OFW 5.05/Прошивка для ESP8266 PS4 Хост (ПО 5.05) (описание на русском смотрите внизу)**
 ***
