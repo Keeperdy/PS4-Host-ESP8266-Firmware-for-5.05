@@ -1,3 +1,6 @@
+# NO MORE UPDATES!!! PLEASE USE 2in1 VERSION!!! 
+## LINK https://github.com/Keeperdy/PS4-Host-ESP8266-Firmware-2in1-for-4.55-5.05-5.07/
+
 # THIS FIRMWARE IS NOT FOR COMMERCIAL USE!!! DO NOT BUY ANY ESP DEVICE WITH THIS FW - IT'S 3-4 TIMES MORE EXPENSIVE THAN THE DEVICE ITSELF!!! JUST BUY ESP8266 AND FLASH IT BY YOURSELF!!! 
 
 # ПРЕДСТАВЛЕННАЯ ЗДЕСЬ ПРОШИВКА НЕ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ!!! НЕ ПОКУПАЙТЕ МОДУЛЬ С ДАННОЙ ПРОШИВКОЙ - ОН СТОИТ В 3-4 РАЗА ДОРОЖЕ, ЧЕМ САМО УСТРОЙСТВО!!! ПРОСТО КУПИТЕ ESP8266 И ПРОШЕЙТЕ ЕГО САМОСТОЯТЕЛЬНО!!!
