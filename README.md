@@ -1,6 +1,3 @@
-# NO MORE UPDATES!!! PLEASE USE 2in1 VERSION!!! 
-## LINK https://github.com/Keeperdy/PS4-Host-ESP8266-Firmware-2in1-for-4.55-5.05-5.07/
-
 # THIS FIRMWARE IS NOT FOR COMMERCIAL USE!!! DO NOT BUY ANY ESP DEVICE WITH THIS FW - IT'S 3-4 TIMES MORE EXPENSIVE THAN THE DEVICE ITSELF!!! JUST BUY ESP8266 AND FLASH IT BY YOURSELF!!! 
 
 # ПРЕДСТАВЛЕННАЯ ЗДЕСЬ ПРОШИВКА НЕ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ!!! НЕ ПОКУПАЙТЕ МОДУЛЬ С ДАННОЙ ПРОШИВКОЙ - ОН СТОИТ В 3-4 РАЗА ДОРОЖЕ, ЧЕМ САМО УСТРОЙСТВО!!! ПРОСТО КУПИТЕ ESP8266 И ПРОШЕЙТЕ ЕГО САМОСТОЯТЕЛЬНО!!!
@@ -11,12 +8,12 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 5.05 OFW
 
 The payloads list includes:
 
+    HENs
     MIRA+HEN
-    Xvortex's HEN v1.6
-    Xvortex's FTP v1.3
-    Xvortex's Dumper v1.8
-    Stooged's BackUp v2
-    Stooged's App2Usb v1
+    App2USB
+    BackUp
+    BinLoader
+    etc
     
 PS4 Wi-Fi Settings (EASY):
 
@@ -29,7 +26,7 @@ Upload firmware in .bin format via NodeMCU-PyFlasher 3.0
 
 CREDITS TO:
 
-Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, The Open Orbis team, etc
+Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, EdiTzZ, Leeful, Zer0xFF, The Open Orbis team, SISTRo, xXxTheDarkprogramerxXx, etc
 
 ---
 
@@ -41,12 +38,12 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 
 Состав сборки (по мере выхода новых версий пэйлоады обновляются):
 
+    HENs
     MIRA+HEN
-    Xvortex's HEN v1.6
-    Xvortex's FTP v1.3
-    Xvortex's Dumper v1.8
-    Stooged's BackUp v2
-    Stooged's App2Usb v1
+    App2USB
+    BackUp
+    BinLoader
+    etc
     
 Настройки PS4 Wi-Fi (метод - "Простой"):
 
@@ -59,4 +56,4 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 
 Особая благодарность разработчикам:
 
-Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, The Open Orbis team и т.д.
+Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, EdiTzZ, Leeful, Zer0xFF, The Open Orbis team, SISTRo, xXxTheDarkprogramerxXx и т.д.
